@@ -1,0 +1,33 @@
+.base_setting{
+	max-width: 400px;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+input{
+	margin: 0 0 4px;
+}
+.error{
+	margin-top: 4px;
+	border:solid;
+	border-radius: 5px;
+	border-color: #bc1339;
+	text-align: center;
+	padding: 7px;
+}
+.none{
+	display: none;
+}
+
+.center{
+	text-align: center;;
+}
+.centerpage{
+	height: 100vh;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+

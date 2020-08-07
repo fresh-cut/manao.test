@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user id="1">
+    <login>test</login>
+    <password>567592d6d7365e1644e748eef944838e</password>
+    <email>test@mail.com</email>
+    <user_name>test</user_name>
+    <sault>5f2dc710048b1</sault>
+    <cookie_key>5f2dc9990338b</cookie_key>
+    <session_key>5f2dc99906cd7</session_key>
+  </user>
+</users>
